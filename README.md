@@ -17,8 +17,6 @@ yarn start
 
 ### Публикация проекта:
 
-> `https://job-listings-with-filtering-nine.vercel.app/`
+> `https://rest-countries-api-with-theme-toolkit-1hj3v5d9c-nicolayv.vercel.app/`
 
-> [Vercel deploy](https://job-listings-with-filtering-nine.vercel.app/)
-# rest-countries-api-with-theme-toolkit
-# rest-countries-api-with-theme-toolkit
+> [Vercel deploy](https://rest-countries-api-with-theme-toolkit-1hj3v5d9c-nicolayv.vercel.app/)
