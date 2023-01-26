@@ -13,7 +13,10 @@ yarn start
 ### 💡 Технологии на проекте:
 
 - react
+- react-router-dom
 - redux toolkit
+- redux-persist
+- styled-components
 
 ### Публикация проекта:
 
